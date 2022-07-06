@@ -1,6 +1,6 @@
 # Welcome to 50 Projects in 50-Days using HTML + CSS + JS
 
-**_Languages_** <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
+**_Languages_** <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 **50 Days - 50 Projects** it's a _challenge_ I'm creating today that it's meant to improve programming skills by building projects :smiley: <br />
 Think of it as the next step if you ever participated in the #50DaysOfProjects challenge.
