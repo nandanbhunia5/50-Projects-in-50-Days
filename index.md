@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to 50 Projects in 50-Days using HTML + CSS + JS
 
-You can use the [editor on GitHub](https://github.com/nandanbhunia5/50-Projects-in-50-Days/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**50 Days - 50 Projects** it's a _challenge_ I'm creating today that it's meant to improve programming skills by building projects :smiley: <br />
+Think of it as the next step if you ever participated in the #50DaysOfProjects challenge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Note:** Scroll down to see the projects I've built so far.
 
-### Markdown
+### Rules
+* create a project per day
+* share your progress on Social Media ([Twitter](https://twitter.com/nandanbhunia5), [Linkedin](https://www.linkedin.com/in/nandan-kumar-bhunia), etc) using the **#50DaysOfProjects** hashtag
+* start your challange for today
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anyone is welcomed to join the challenge alongside me! I'm going to be available on our discussion tab where you can come to share your progress or if you need any help along the way.
 
-```markdown
-Syntax highlighted code block
+### Contribute
+You also can add projects to this [Github repository](https://github.com/nandanbhunia5/50-Projects-in-50-Days) where you can propose any project you'd like me to create!<br /> Let's see how creative you can be! :smiley:
 
-# Header 1
-## Header 2
-### Header 3
+And if you feel supportive, make sure you follow and support me on Social Media! Thank you! :pray:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Projects list
 
-**Bold** and _Italic_ and `Code` text
+Complete + Add the project soon ...
 
-[Link](url) and ![Image](src)
-```
+| Day | Project | Link |
+| :---:         |     :---:      |          :---: |
+| 01   | PROJECT_STARTER | ... |
+| 02   | Expanding-Cards | ... |
+| 03   | .. | ... |
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Smaller versions of the Challenge
 
-### Jekyll Themes
+If you feel intimidated by the #50DaysOfProjects challenge, you can start small by doing either:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nandanbhunia5/50-Projects-in-50-Days/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#7DaysOfProjects or<br />
+#30DaysOfProjects<br />
+The rules are the same as for the #50DaysOfProjects challenge.
 
-### Support or Contact
+### The Ultimate Challenge!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you feel like #50DaysOfProjects is too easy for you, then you can go for the Ultimate Challenge by working on #365DaysOfProjects challenge. Whoever does this challenge really deserves a medal! :1st_place_medal:
